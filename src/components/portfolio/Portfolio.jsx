@@ -21,7 +21,7 @@ const items = [
     id: 3,
     title: "Image Processing GUI Application",
     img: "https://www.mygreatlearning.com/blog/wp-content/uploads/2021/06/iStock-966861240.jpg.webp",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "An image processing GUI application that allows users to upload, transform, and filter images using features like grayscale conversion, resizing, and edge detection. Built with Python and OpenCV, it offers a user-friendly interface for real-time image editing and saving.",
     link: "https://github.com/Yashraj1805/Image-Processing-GUI", // Replace with your demo link
   },
   {
